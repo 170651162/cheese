@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+ 
+ <html> 
+ 
+<how to know when to run> 
+<title>tips</title>
+</head> 
+ 
+<body>  
+ 
+<h1> My Website </h1> 
+ 
+<p> when you her large loud footsteps and the game goes red and shakes run till its not there because that means the rat is coming but be careful because you might run into the rat and lose all your progress like the keys for the door and however many of the 9 cheeses you have collected then your set back to the safe zone. i would recommend remebering where the safe zone is and how to get back because you may find yourself in a sticky situation is the rats behind you and you run into a dead end.</p>    
+
+</body> 
+ 
+</html>
